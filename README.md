@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm still setting up around here, but feel free to reach out! I'm a recent Robotics grad from Virginia Tech (Go Hokies!)
+
+
+
 <!--
 **geanderson00/geanderson00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
